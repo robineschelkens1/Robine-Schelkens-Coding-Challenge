@@ -1,0 +1,4 @@
+com\robine\spring\data\mongodb\SpringBootDataMongodbApplication.class
+com\robine\spring\data\mongodb\model\Signal.class
+com\robine\spring\data\mongodb\controller\SignalController.class
+com\robine\spring\data\mongodb\repository\SignalRepository.class
